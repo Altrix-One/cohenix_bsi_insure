@@ -1,1 +1,7 @@
-# cohenix_bsi_insure
+## BSI Insure
+
+BSI Insurance
+
+#### License
+
+mit
